@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3936 >>
+stream
+q
+0.05 0.08 0.18 rg
+0 720 612 72 re f
+BT /F2 22 Tf 1 1 1 rg 40 755 Td (BIKKI JHA) Tj ET
+BT /F1 11 Tf 0.0 0.9 1.0 rg 40 735 Td (MCA Student @ RIT Roorkee  |  Web, Java & Python Developer) Tj ET
+BT /F1 9 Tf 0.85 0.85 0.9 rg 40 722 Td (Email: bikkijhaa@gmail.com   |   Location: Bihar, India   |   Campus: RIT Roorkee) Tj ET
+0.0 0.5 0.8 rg
+BT /F2 12 Tf 0.08 0.35 0.75 rg 40 695 Td (PROFESSIONAL SUMMARY) Tj ET
+0.08 0.35 0.75 RG 1.5 w 40 692 m 572 692 l S
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 677 Td (Passionate and results-driven MCA student at Roorkee Institute of Technology (RIT Roorkee)) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 664 Td (with strong expertise in Web Development, Core Java & OOP, and Python programming.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 651 Td (Adept at building interactive modern web applications, scalable software architectures,) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 638 Td (and solving complex computational problems using data structures and algorithms.) Tj ET
+0.8 0.85 0.9 RG 1 w 40 625 m 572 625 l S
+0.0 0.5 0.8 rg
+BT /F2 12 Tf 0.08 0.35 0.75 rg 40 609 Td (EDUCATION) Tj ET
+0.08 0.35 0.75 RG 1.5 w 40 606 m 572 606 l S
+BT /F2 10.5 Tf 0.1 0.1 0.1 rg 40 591 Td (Master of Computer Applications (MCA)) Tj ET
+BT /F3 9.5 Tf 0.3 0.3 0.4 rg 40 578 Td (Roorkee Institute of Technology (RIT Roorkee), Uttarakhand | Pursuing) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 565 Td (- Specialization in Software Engineering, Advanced Java, Web Technologies, and Database Systems.) Tj ET
+BT /F2 10.5 Tf 0.1 0.1 0.1 rg 40 552 Td (Bachelor of Computer Applications / Graduation) Tj ET
+BT /F3 9.5 Tf 0.3 0.3 0.4 rg 40 539 Td (Bihar, India) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 526 Td (- Graduated with strong foundation in Computer Science, Programming, and Mathematics.) Tj ET
+0.8 0.85 0.9 RG 1 w 40 513 m 572 513 l S
+0.0 0.5 0.8 rg
+BT /F2 12 Tf 0.08 0.35 0.75 rg 40 497 Td (TECHNICAL SKILLS) Tj ET
+0.08 0.35 0.75 RG 1.5 w 40 494 m 572 494 l S
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 479 Td (- Web Development: HTML5, CSS3, JavaScript (ES6+), Three.js, Responsive UI, REST APIs) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 466 Td (- Programming Languages: Java (Core Java, OOP, Collections, DSA), Python (Scripting, Automation)) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 453 Td (- Databases & Tools: MySQL, Git, GitHub, VS Code, Linux/Windows CLI) Tj ET
+0.8 0.85 0.9 RG 1 w 40 440 m 572 440 l S
+0.0 0.5 0.8 rg
+BT /F2 12 Tf 0.08 0.35 0.75 rg 40 424 Td (FEATURED PROJECTS) Tj ET
+0.08 0.35 0.75 RG 1.5 w 40 421 m 572 421 l S
+BT /F2 10.5 Tf 0.1 0.1 0.1 rg 40 406 Td (1. Interactive 3D Developer Portfolio) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 393 Td (- Built an immersive 3D personal portfolio using Three.js, WebGL, and modern CSS3 glassmorphism.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 380 Td (- Integrated dynamic camera controls, 3D particle universe, and interactive skill geometry.) Tj ET
+BT /F2 10.5 Tf 0.1 0.1 0.1 rg 40 367 Td (2. Java Management System & DSA Engine) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 354 Td (- Developed a robust Java-based application utilizing object-oriented principles and collections.) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 341 Td (- Implemented optimized search, sorting, and persistent data storage with clean modular code.) Tj ET
+BT /F2 10.5 Tf 0.1 0.1 0.1 rg 40 328 Td (3. Python Automation & Web Scraper / API Tool) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 315 Td (- Created automated Python scripts for workflow efficiency, data parsing, and RESTful API integration.) Tj ET
+0.8 0.85 0.9 RG 1 w 40 302 m 572 302 l S
+0.0 0.5 0.8 rg
+BT /F2 12 Tf 0.08 0.35 0.75 rg 40 286 Td (PERSONAL DETAILS) Tj ET
+0.08 0.35 0.75 RG 1.5 w 40 283 m 572 283 l S
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 268 Td (- Home Town: Bihar, India) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 255 Td (- Current Academic Residence: Roorkee, Uttarakhand (RIT Roorkee)) Tj ET
+BT /F1 9.5 Tf 0.2 0.2 0.25 rg 45 242 Td (- Languages: English, Hindi) Tj ET
+Q
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000261 00000 n 
+0000004249 00000 n 
+0000004319 00000 n 
+0000004394 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4472
+%%EOF
